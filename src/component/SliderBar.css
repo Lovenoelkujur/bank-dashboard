@@ -1,0 +1,17 @@
+/* .slider-main{
+    gap: 1rem;
+} */
+
+.title{
+    padding: 1rem 0;
+}
+
+.slider-bar{
+    padding: 1rem;
+}
+
+.min-max{
+    display: flex;
+    justify-content: space-between;
+    color: #00000099;
+}
